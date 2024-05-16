@@ -10,6 +10,7 @@ import UserProfile from "../components/UserProfile/UserProfile";
 import UserRepo from "../components/UserRepos/UserRepos";
 import Loading from "../components/Loading/Loading";
 import { combineReposAndCommits } from "../helperFunctions";
+// Added
 
 const App = () => {
     // Declare global state variables
